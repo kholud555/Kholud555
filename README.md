@@ -1,5 +1,6 @@
 
 ## Hi, I'm Kholud 👋🏻 👩🏻‍💻
-![Computer](https://imgur.com/f0iJ1MW)
+![Alt text](https://imgur.com/f0iJ1MW)
+
 
 
