@@ -1,6 +1,6 @@
 
 ## Hi, I'm Kholud 👋🏻 👩🏻‍💻
-![Alt text](https://imgur.com/f0iJ1MW)
+[![Laboratory.gif](https://i.postimg.cc/qvwksRTt/Laboratory.gif)](https://postimg.cc/5XHd1fj1)
 
 
 
