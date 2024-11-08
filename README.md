@@ -1,6 +1,6 @@
 
 ## Hi, I'm Kholud 👋🏻 👩🏻‍💻
 
-[![EDGE-KD.gif](https://i.postimg.cc/MT6xvJ47/EDGE-KD.gif)](https://postimg.cc/Y4sTsZt0)
+[![tumblr-owi25v6u-Ao1r4gsiio1-1280-gif-1000-300.gif](https://i.postimg.cc/LsCRYbMG/tumblr-owi25v6u-Ao1r4gsiio1-1280-gif-1000-300.gif)](https://postimg.cc/QBTvvSCq)
 
 
