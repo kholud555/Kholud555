@@ -42,25 +42,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
 </div>
 
-<hr></hr>
+<hr/>
+
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;
+  I’m a **Full-Stack Developer** working with **ASP.NET Core (MVC & Web APIs) using .NET 10** and **Angular**, focusing on building scalable backend APIs and connecting them with clean, responsive frontends.
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="15%" />
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;
+  I enjoy **Full-Stack Web Development**, especially backend architecture, APIs, and real-world application design.
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;
+  Ask me about **ASP.NET Core Web APIs, MVC, Angular, SignalR, EF Core, and RESTful services**.
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;
+  Find me on LinkedIn: **[Kholud Ahmed](https://www.linkedin.com/in/kholud-ahmed)**
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;
+  Fun fact: I prefer learning by **building APIs, integrating them with frontends, and improving code structure step by step** ⚡
+
+<hr/>
 
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **ASP.NET Core MVC & Angular**. 
-  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="15%" /><br>
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love exploring **Full-Stack Web Development**. <br>
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Angular, ASP.NET Core, APIs, or anything tech**. <br>
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linked-in: **[Kholud Ahmed](https://www.linkedin.com/in/kholud-ahmed)**<br>
-
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy learning new frameworks and building real-world projects. <br>
 
 
-<div align="center" >
-
-  
-<hr></hr>
 
 **Code Cycle**<br>
 
